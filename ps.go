@@ -9,6 +9,14 @@ import (
 	"io"
 )
 
+// PS resources:
+//   - An informative look at CMap, and some of its problems:
+//     https://wiki.pdftalk.de/doku.php?id=cmap
+//   - PS commads:
+//     https://personal.math.ubc.ca/~cass/courses/ps.html
+//   - CMap samples, maybe?:
+//     https://github.com/adobe-type-tools/cmap-resources
+
 // A Stack represents a stack of values.
 type Stack struct {
 	stack []Value
