@@ -1,3 +1,3 @@
-go get rsc.io/pdf
+# RSC's PDF reader
 
-http://godoc.org/rsc.io/pdf
+<http://godoc.org/rsc.io/pdf>
